@@ -1,3 +1,4 @@
 Line 1: Initial content
 Line 2: More content on master
 Line 3: Feature work
+Line 4: More feature work
